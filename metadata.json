@@ -1,0 +1,7 @@
+{
+  "name": "Minha HQ",
+  "description": "Transforme seus sonhos em realidade com o poder da IA. Crie histórias em quadrinhos personalizadas usando suas próprias fotos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
